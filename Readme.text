@@ -1,0 +1,5 @@
+Again, design problems/decisions are succinctly presented and a solution with its rationale are discussed. For profiling, an explicit 
+"expectations" and "results" section is presented. Unanswered questions and weaknesses of their analysis are also mentioned.
+
+A weak point of this readme is that the sorting algorithm analysis presents information without discussing their justification or where 
+their data came from; this information sounds like it could have been copied from lecture slides. 
