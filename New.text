@@ -1,0 +1,4 @@
+Did you know you can not initialize integer pointer but you can intialize string pointer.
+
+Ex. int *p=5; this is wrong
+    String *p="vivek" ; right
